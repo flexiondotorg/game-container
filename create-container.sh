@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 # WIP! Create a LXD container with Ubuntu 18.04 and Steam
+# Also see: https://paste.ubuntu.com/p/vbgT5B2yfS/
 
 install-lxd() {
   snap install lxd 
